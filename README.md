@@ -1,4 +1,6 @@
 # Andromux Test Repo
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fng1nX4O4%2FAndromux-Test-Repo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fng1nX4O4%2FAndromux-Test-Repo?ref=badge_shield)
+
 **Test Repo Of Andromux's Information Gathering Tools**
 
 #### Setup
@@ -38,3 +40,7 @@ New Tools Will Be Added As Per Requests. Just Create An Issue With Name "Tool Re
 Facebook [ng1nx4O4](http://www.facebook.com/ng1nx4O4)
 
 ## Happy Pentesting
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fng1nX4O4%2FAndromux-Test-Repo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fng1nX4O4%2FAndromux-Test-Repo?ref=badge_large)
