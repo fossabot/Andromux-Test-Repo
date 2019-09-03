@@ -1,0 +1,15 @@
+Package: build-essential
+Version: 9.9-1
+Section: base
+Priority: optional
+Architecture: i686
+Depends: autoconf, automake, bison, clang, cmake, flex, gperf, libtool, m4, make, ninja, pkg-config, bc, bzip2, coreutils, diffutils, ed, findutils, gawk, grep, gzip, lzip, lzop, patch, procps, psmisc, sed, tar, util-linux, xz-utils, libxml2, libxslt, python, python2, git, wget, curl, axel, openssl, openssh, build-essential, ruby
+Maintainer: Rabby Sheikh
+Description: A metapackage that installs essential development tools required for AndromuX Tools
+Filename: dists/information-gathering/termux/binary-i686/build-essential_9.9-1_i686.deb
+Size: 928
+MD5Sum: 4e73490e7b1b0deaf910795b5d8413e8
+SHA1: 03743372686d12f6ad44e682d252c0f10125c5f7
+SHA256: a39cde5cae6c4b46964233e56b70dee528e548f313c604c7494cd3ca714012fb
+SHA512: 8587f1f57413839eb0f4c0936c6f141428207a03c4b1e0392165a68b6667b66abbd658c91215ba60c8c4209891c57b534cd430653a7aab1a650d97a38eba143c
+

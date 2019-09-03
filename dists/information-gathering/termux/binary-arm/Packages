@@ -1,0 +1,15 @@
+Package: build-essential
+Version: 9.9-1
+Section: base
+Priority: optional
+Architecture: arm
+Depends: autoconf, automake, bison, clang, cmake, flex, gperf, libtool, m4, make, ninja, pkg-config, bc, bzip2, coreutils, diffutils, ed, findutils, gawk, grep, gzip, lzip, lzop, patch, procps, psmisc, sed, tar, util-linux, xz-utils, libxml2, libxslt, python, python2, git, wget, curl, axel, openssl, openssh, build-essential, ruby
+Maintainer: Rabby Sheikh
+Description: A metapackage that installs essential development tools required for AndromuX Tools
+Filename: dists/information-gathering/termux/binary-arm/build-essential_9.9-1_arm.deb
+Size: 924
+MD5Sum: c54309b5b87d9f6dbf3f5d7b3803d21f
+SHA1: 3c9db22aad93d7892321de526c8e06cd4edb7aca
+SHA256: b1352c8036e21f70be2c24f616a8187c46df69a32ab3040aac3dc7a5df664b98
+SHA512: 1adc1e1ebf3282841219ec28e99aeb554719674d1e0f2692562e587a96117ab638283e9f9742d01a49048addfa4399337c63d3b7f13df39a614aa1a56e2f839d
+

@@ -1,0 +1,207 @@
+Package: cr3d0v3r
+Version: 0.4.4
+Installed-Size: 100
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: Know the dangers of credential reuse attacks.
+Filename: dists/information-gathering/termux/binary-all/cr3d0v3r_0.4.4_all.deb
+Size: 8692
+MD5Sum: 63e3fd5a30c68264615edc048bfc9c7c
+SHA1: 0c2bd8295a00ebead982e98c6ae4e1baba20e155
+SHA256: 765b984ab17934dcf7e7fd15073cd8caba175d1db65c0c3fd204947ed7210f56
+SHA512: f5dd0fdf96a52c918c9f7f46323cb92632039310c84b5b6a30d41988fe9adbde8223d4b926fb3965348390dcbf7f0cc3e89089dca23d27f677e6307a2b7184e7
+
+Package: dnsmap
+Version: 0.24
+Installed-Size: 100
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: DNS Domain Brute Forcing Tool
+Filename: dists/information-gathering/termux/binary-all/dnsmap_0.24_all.deb
+Size: 12084
+MD5Sum: 5fa41e9ac6ce761dba7ec9f1edd68077
+SHA1: 181fc4fee4ff6ce7ce38438afb026a729cd7b3b7
+SHA256: ba5fc9e0e22271a0286e43177c8b0dcb47d6ee06705a4bc5ccce839424fe5f23
+SHA512: 9ee8fb1f69c3760a7fae347be837a46754cde59d7e4457cf73d2bd060880862271f450cd09fdeb48f4671e76b5cc8166de39da0be366601f3d84b163a40625c8
+
+Package: gasmask
+Version: 1.4.1
+Installed-Size: 105
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: Information gathering tool - OSINT
+Filename: dists/information-gathering/termux/binary-all/gasmask_1.4.1_all.deb
+Size: 15004
+MD5Sum: d0f42e6a15c00e21e61d23796428de5a
+SHA1: 069647d247cadb46a421fbbd21cb6fe725546143
+SHA256: f9c751d7d5514607d5531ae231bebc6008bdcdd1d4fcf9b0c0f091ab2d7368f4
+SHA512: 67d3d0d3c250a7b7457f48c8d6d368ee626c1c8fd276c444ff748cede85456038c1595cdfbd1607fd20ae8c1ec9c00ecf4e32bcde23af8b8406198a0eb197c39
+
+Package: information-gathering-andromux
+Version: 1.0
+Installed-Size: 1
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1), dnsutils, nettacker,  vault, gasmask, tldscanner, dnsmap, theharvester, sublist3r, nmap, cr3d0v3r, recondog, raccoon-scanner
+Maintainer: Rabby Sheikh
+Description: All in one information gathering tool installer
+Filename: dists/information-gathering/termux/binary-all/information-gathering-andromux_1.0_all.deb
+Size: 832
+MD5Sum: 01c57e810ded0d77b39f99fe1a9df86e
+SHA1: bee08365b9786780cb6fbfb8cf2fdc7cfa7e4495
+SHA256: a5d2d227a08b2a6c34f8e8f0bc0caac7f89fd26cfa257341cb0a5b1db7ac9aba
+SHA512: 7a9a2b0bd532945d303d758a2c4b6a84e140c38424cc2754267b68a8dfb2ad3797b8f9bad3f9447c021a6b5fb1e49482a0162698da0cdd49205aac8a04248f4a
+
+Package: nettacker
+Version: 0.0.1
+Installed-Size: 16384
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: A metapackage that installs essential development tools required for AndromuX Tools
+Filename: dists/information-gathering/termux/binary-all/nettacker_0.0.1_all.deb
+Size: 3116344
+MD5Sum: 9311d35978aa741fc510a231d23d8c22
+SHA1: 307c81dc2a1e3f946b8e021b957a3a8a9795892e
+SHA256: ad105c25c4b86624b881686b6d28425bc232a0d15f5aa2bfe12bd7dd45c1f77d
+SHA512: 9d25cbae364029cb5060d120b7b6f55c3e486fbb04d96db7241085407e4f128ddbef8decbff1749755e33939aa846eb768f83923282d115117f42516c7a5dda4
+
+Package: raccoon-scanner
+Version: 0.8.5
+Installed-Size: 8000
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: Offensive Security Tool for Reconnaissance and Information Gathering
+Filename: dists/information-gathering/termux/binary-all/raccoon-scanner_0.8.5_all.deb
+Size: 900
+MD5Sum: bc2443e6f6e6a01194853ff44d446616
+SHA1: 185dc79ba38d61ea4c88e339f9e645ad1a29ce26
+SHA256: 2ec499b37cec3e89464e337df618501a67fd8e75bfe690083aef3abf4d09a3d3
+SHA512: 95d89c008ae1934ff6f0ef90f403726524bdf3aca4cf0cbc15e26273b53b26f7184da4085b20fc1dccf760526da34d4860ccc7570c7992f6c94465b5a47ce0e1
+
+Package: recondog
+Version: 2.0
+Installed-Size: 150
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: Reconnaissance Swiss Army Knife
+Filename: dists/information-gathering/termux/binary-all/recondog_2.0_all.deb
+Size: 7092
+MD5Sum: ae31905cd68233794b692f59af2d0c50
+SHA1: 6c3b924391134f5c7b46f9dd6299477e66b3b3e6
+SHA256: 1a96e18f1f6bad521dc9c2e87be2a98ab53ef6f4bd5cf8471360f957e986e84d
+SHA512: f17f09f8c2ee2a488eae1f47a0fddd758170e99ddf7f8497ada15d74e1732646af4d8844c9dcbba1f3279b13db233d61f7c1949d4ba84610706bd3810e0f535c
+
+Package: reconhound
+Version: 1.0
+Installed-Size: 69Section: tools
+Priority: optional
+Architecture: all
+Depends: python, lynx
+Maintainer: Rabby Sheikh
+Description: Fully Anonymous Reconnaissance using API's
+Filename: dists/information-gathering/termux/binary-all/reconhound_1.0_all.deb
+Size: 1576
+MD5Sum: 13cc37f58996d8f1eb5d59f4edca6d4c
+SHA1: 48d368dd71702d35f98a9f0e237689a018530e25
+SHA256: ad0fa8ef4b7de75e163d05fa7965bc57ce633f5c287283c4a4f75fd6a94145b0
+SHA512: 859458158a359870eebcb853e17659127e5ac74e511ebf0fb27146643f74c62536e6b767c6d4ba277ab9e601b9b8db8b693dbd790bb0ca21376e5d6025e4529f
+
+Package: redhawk
+Version: 2.0.0
+Installed-Size: 145
+Section: tools
+Priority: optional
+Architecture: all
+Depends: php, curl, wget, openssl
+Maintainer: Rabby Sheikh
+Description: All in one tool for Information Gathering and Vulnerability Scanning
+Filename: dists/information-gathering/termux/binary-all/redhawk_2.0.0_all.deb
+Size: 19612
+MD5Sum: 3b7fa600064788ec0a84fb7cf14fb127
+SHA1: f701c3c39827861e103577f2890a051b215dff27
+SHA256: 08c41b8868d3debfc45e2057231bfa6d169592e2e73981158ffb73fb1aa7984e
+SHA512: deb5cb0530d333169d5379d6c6cd37531325f2c355df43ca5fc3140835f2b1cdc15641f401ef4613f36ab359e353aabb286a95057a22a3a4bcd779b04ba24ed3
+
+Package: sublist3r
+Version: 1.0
+Installed-Size: 1150
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: Fast subdomains enumeration tool for penetration testers
+Filename: dists/information-gathering/termux/binary-all/sublist3r_1.0_all.deb
+Size: 623680
+MD5Sum: b497be3740d04254d1274507821cf3fb
+SHA1: c32ee0e8d38911f0a1dd49c11c02f7a699261380
+SHA256: 45b036e990bb1506d18d7a3ff9bcd4c1d33f55ea3a4e947e6e0b66270930f4dc
+SHA512: 465445f46c4fc46d4d4826bdbee1fad45284c89b24aafde5888bb95305b1070b029b8325f851c586011c902df7f3da6f6a0cc678fb5eb08ea6c927d6e40a0e4f
+
+Package: theharvester
+Version: 3.1.2
+Installed-Size: 4096
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: E-mails, subdomains and names Harvester - OSINT
+Filename: dists/information-gathering/termux/binary-all/theharvester_3.1.2_all.deb
+Size: 747468
+MD5Sum: 56cf112c9abf2dd90469e326d6db8757
+SHA1: a94b919d2cb6caaab59be89a1822693a1c268b63
+SHA256: 131c830ee082cd7cf60affdd0adb427d8d4c7654343960847ecf7e188cc4b89d
+SHA512: 3507b550d0d61b05b79e254e064954439fdd970423d3aa88a83125b03c102c6bddcf31f5f146b6394a5720563bcf7354cf38186bf56f8f9d529a100fb7378f9b
+
+Package: tldscanner
+Version: 1.0
+Installed-Size: 70
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: Scan for all existing top level domains for a give domain name
+Filename: dists/information-gathering/termux/binary-all/tldscanner_1.0_all.deb
+Size: 3384
+MD5Sum: a56d155028f949d1aaa2f1f27a6c712b
+SHA1: 54d712721d35132c62d477d4528ae9bcbfa24544
+SHA256: f1fa715d6f289eb54edd1899fba07e1b29873b3d085171b46e7f25cf64d79ed3
+SHA512: bf5e714b4cef5b211c52f64cc08620b14c0cfc21ea3dd28f207bc17c87b7c6aa236fc69a47be0c5916bae5fa5b1807e5a459cd8756f299653595f909f7a940e4
+
+Package: vault
+Version: 2.0-1
+Installed-Size: 800
+Section: tools
+Priority: optional
+Architecture: all
+Depends: build-essential (>= 9.9-1)
+Maintainer: Rabby Sheikh
+Description: A metapackage that installs essential development tools required for AndromuX Tools
+Filename: dists/information-gathering/termux/binary-all/vault_2.0-1_all.deb
+Size: 94532
+MD5Sum: ed33354cec2ebd088150e167eaa03bac
+SHA1: 3d7b89c4477164469307e089b8b56de710f8932a
+SHA256: c8341ea47e64826e863929bd64d5a9be86205d48f41c8e9688d0ec28de9358b4
+SHA512: ca03f291041f05fc72596f9dea14485e1b0f52a074fef2aa0b763a52d5c603c214bfd5229460413c47f93fe4a90bc1e38078a02167ab847292bcb1ebfca8695e
+
